@@ -1,0 +1,16 @@
+body {
+  
+    background-origin: border-box;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+table, th, td {
+    border: 1px solid black;
+  }
+
+.songs {
+    margin-left: 30px;
+    margin-top: 50px;
+
+
+  }
